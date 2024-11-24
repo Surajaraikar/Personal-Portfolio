@@ -1,0 +1,14 @@
+.btn {
+  font-size: small;
+  display: flex;
+  align-items: center;
+  background-color: #261d2d; /* Dark purple */
+  color: white; /* Text color */
+  font-size: 12px; /* Font size */
+  padding: 0.5px 4px; /* Padding */
+  border: none; /* Remove border */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 6px rgba(38, 37, 37, 0.1); /* Subtle shadow */
+  cursor: pointer; /* Pointer cursor */
+}
+
